@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:ff_places/Providers/user_places.dart';
 import 'package:ff_places/models/places.dart';
-import 'package:ff_places/widgets/image_inoput.dart';
+import 'package:ff_places/widgets/image_input.dart';
 import 'package:ff_places/widgets/location_input.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
